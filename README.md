@@ -1,7 +1,7 @@
 # Learn When and Where to Connect: Adaptive Virtual Nodes for Dynamic Message Passing on Graphs
 
 This is the official code of "Learn When and Where to Connect: Adaptive Virtual Nodes for Dynamic Message Passing on Graphs"\
-**Published in the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining V.2, 2026 - Research Track (KDD 2026 Research Track).**
+**Published in the 32nd SIGKDD Conference on Knowledge Discovery and Data Mining V.2 (KDD 2026 Research Track).**
 
 All codes are written by [Jaejun Lee](https://jaejunlee714.github.io/) (jjlee98@kaist.ac.kr).\
 If you use this code, please cite our paper.
